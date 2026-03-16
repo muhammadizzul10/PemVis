@@ -1,6 +1,6 @@
-#Nama : Muhammad Tegar Bijanta
-#NIM : F1D02410081
-#Kelas: D
+# NAMA: MUHAMMAD IZZUL ISLAM
+# NIM: F1D02410077
+# KELAS: D
 
 import sys
 from PySide6.QtWidgets import(
