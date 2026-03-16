@@ -1,3 +1,6 @@
+# NAMA: MUHAMMAD IZZUL ISLAM
+# NIM: F1D02410077
+# KELAS: D
 import sys
 from PySide6.QtWidgets import(
     QApplication, QWidget, QLabel, QHBoxLayout, QDateEdit,
